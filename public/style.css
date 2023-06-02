@@ -1,0 +1,28 @@
+*{
+  margin: 40px;
+  padding: 20px;
+  background-color: rgb(188, 199, 199);
+ 
+}
+div{
+  position: absolute;
+  background-color: aliceblue;
+  width: auto;
+}
+form{
+  background-color: aliceblue;
+  
+}
+form input,button,h1{
+  background-color: aliceblue;
+  flex-wrap: wrap;
+  width: 500px;
+  position: relative;
+  text-align: center;
+}
+button{
+  color: rgb(238, 131, 1);
+}
+*error{
+ color: bisque;
+}
